@@ -32,38 +32,54 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)  
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=fff)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=fff)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
-![React Native](https://img.shields.io/badge/-ReactNative-20232A?logo=react&logoColor=61DAFB)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=fff)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
-
-**Tools & Platforms:**  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td><strong>Backend</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff" />
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" />
+      <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=fff" />
+      <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=fff" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff" />
+      <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff" />
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td><strong>Tools & Platforms</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />
+      <img src="https://img.shields.io/badge/-ReactNative-20232A?logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff" />
+      <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff" />
+      <img src="https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=fff" />
+      <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000" />
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" />
+      <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff" />
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff" />
+      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000" />
+    </td>
+  </tr>
+</table>
 
 ---
+
 ### 📊 GitHub Stats
 
 <div align="center">
