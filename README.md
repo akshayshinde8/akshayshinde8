@@ -22,9 +22,11 @@
   <a href="https://www.linkedin.com/in/akshayshinde2" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://instagram.com/akshay.tbvh" target="_blank">
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/akshay._tbvh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
+   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/akshayshinde01232/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
   </a>
